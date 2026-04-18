@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/mr_robot/Desktop/esp_monitor/build/CMakeFiles/bootloader
+/home/mr_robot/Desktop/esp_monitor/build/CMakeFiles/bootloader.rule
+/home/mr_robot/Desktop/esp_monitor/build/CMakeFiles/bootloader-complete.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/mr_robot/Desktop/esp_monitor/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,2 @@
+source /home/mr_robot/Desktop/esp_monitor/build/bootloader/gdbinit/symbols
+source /home/mr_robot/Desktop/esp_monitor/build/bootloader/gdbinit/connect
