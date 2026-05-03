@@ -34,13 +34,13 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/home/mr_robot/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20251107/xtensa-esp-elf/bin/xtensa-esp32-elf-objdump")
+  set(CMAKE_OBJDUMP "/home/mr_robot/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20251204/xtensa-esp-elf/bin/xtensa-esp32-elf-objdump")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/mr_robot/Desktop/esp_monitor/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
-  include("/home/mr_robot/Desktop/esp_monitor/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake")
+  include("/home/mr_robot/Desktop/esp_monitor/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/cmake_install.cmake")
   include("/home/mr_robot/Desktop/esp_monitor/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
   include("/home/mr_robot/Desktop/esp_monitor/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake")
 
